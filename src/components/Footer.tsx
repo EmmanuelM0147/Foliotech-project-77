@@ -22,7 +22,7 @@ export function Footer() {
               <span className="ml-2 text-xl font-bold text-white">FolioTech Institute</span>
             </div>
             <p className="mt-4 text-gray-400">
-              Pursuing Excellence, With Passion And Integrity
+              Pursuing Excellence, with Passion and Integrity
             </p>
           </div>
 
