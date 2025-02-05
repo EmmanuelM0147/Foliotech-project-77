@@ -45,8 +45,8 @@ export function Contact() {
                   <div className="ml-4">
                     <p className="text-gray-900 font-medium">Address</p>
                     <p className="text-gray-600">
-                      11, Sunmonu Animashaun St,<br />
-                      Zina Estate, Addo Rd, Aja, Lagos
+                      1, Sunmonu Animashaun St,<br />
+                      Zina Estate, Addo Rd, Ajah, Lagos
                     </p>
                   </div>
                 </div>
